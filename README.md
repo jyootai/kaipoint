@@ -1,5 +1,5 @@
 # kaipoint
-This is the source code of Kaipoint website
+This is the source code of Kaipoint website. Express + Angular + Webpack
 
 ###Required
 
