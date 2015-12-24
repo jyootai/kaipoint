@@ -22,4 +22,4 @@ This is the source code of Kaipoint website. Express + Angular + Webpack
         npm install
         webpack-dev-server --progress --colors
 
-then, open `http://localhost:9085/app/index.html`
+then, open `http://localhost:8080/app/index.html`
